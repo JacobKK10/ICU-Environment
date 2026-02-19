@@ -1,0 +1,33 @@
+1. Patient & Visit Identifiers
+- patients
+- admissions
+- icustays
+
+2. Treatments (Drugs, Medications, Orders)
+- prescriptions
+- pharmacy
+- emar&emar_detail
+- poe&poe_detail
+
+3. Procedures & Clinical Actions
+- procedures_icd
+- procedureevents
+
+4. Physiologic & State Variables (Patient State)
+- chartevents
+- datetimeevents
+- inputevents
+- outputevents
+- ingredientevents
+
+5. Diagnoses & Labs
+- diagnoses_icd
+- labevents
+- microbiologyevents
+
+6. Outcomes & Labels for Models
+- patients
+- admissions
+- icustays
+- procedures/events
+- discharge status fields
